@@ -5,3 +5,5 @@
 /venv/*.cfg
 *.cfg
 /venv/
+.vscode
+__pycache__
