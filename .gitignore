@@ -4,6 +4,7 @@
 /venv/share
 /venv/*.cfg
 *.cfg
-/venv/
-.vscode
+/venv/*.*
+/.vscode
 __pycache__
+/venv
