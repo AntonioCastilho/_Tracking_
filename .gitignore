@@ -1,0 +1,7 @@
+/venv/include/
+/venv/Lib/
+/venv/Scripts
+/venv/share
+/venv/*.cfg
+*.cfg
+
