@@ -4,4 +4,4 @@
 /venv/share
 /venv/*.cfg
 *.cfg
-
+/venv/
