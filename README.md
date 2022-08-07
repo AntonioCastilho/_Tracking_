@@ -12,4 +12,4 @@ Reference: Advanced Computer Vision with Python - Full Course
 
            https://learnopencv.com/introduction-to-mediapipe/
 
- ![Manual Control](https://github.com/AntonioCastilho/PIC18F4550/blob/main/StepperMotor.X/setup_stepper_motor.jpg?raw=true)          
+ ![Manual Control](https://github.com/AntonioCastilho/_Tracking_/blob/main/ManualControl/manual_control.png?raw=true)          
