@@ -8,8 +8,7 @@ mpPose = mp.solutions.pose
 pose = mpPose.Pose()
 
 
-cap = cv2.VideoCapture(
-    r"venv\PoseEstimation\tris_Alan_WalkerFaded_Remix_ShuffleDance_Music_video_Electro_House_AdobeExpress.mp4")
+cap = cv2.VideoCapture(r"PoseEstimation\dance_.mp4")
 # cap = cv2.VideoCapture(0)
 fps = cap.get(cv2.CAP_PROP_FPS)
 print("Frames per second: {0}".format(fps))

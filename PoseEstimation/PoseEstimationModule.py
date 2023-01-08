@@ -58,7 +58,7 @@ class poseDetector():
         return lmList
 
 def main():
-    cap = cv2.VideoCapture(r"venv\PoseEstimation\dance.mp4")
+    cap = cv2.VideoCapture(r"PoseEstimation\dance_.mp4")
     # cap = cv2.VideoCapture(0)
     fps = cap.get(cv2.CAP_PROP_FPS)
     print("Frames per second: {0}".format(fps))

@@ -6,7 +6,7 @@ import PoseEstimationModule as pe
 
 pTime = 0
 cTime = 0
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(dance_.mp)
 detector = pe.poseDetector()
 while True:
     ret, img_BGR = cap.read()
